@@ -1,4 +1,4 @@
-Ansible Role: Apache JMeter 3.3
+Ansible Role: Apache JMeter 4.0 
 =========
 An Ansible Role that install Apache JMeter
 
@@ -35,4 +35,4 @@ BSD
 Author Information
 ------------------
 
-This role was created by Wikivoks. 
+This role was created by wikivoks. Updated to jmeter 4.0 by Rifaavalon. 
