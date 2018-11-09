@@ -4,5 +4,4 @@
  jmeter_home_parent_directory: /opt
  owner_user: ""
  owner_group: ""
- jmeter_version: 3.3
- 
+ jmeter_version: 4.0
